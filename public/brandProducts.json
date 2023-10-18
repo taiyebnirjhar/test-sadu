@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "brandName": "L'Oréal",
+    "brandImage": "https://i.ibb.co/tchsVd8/loreal-brand-img.jpg",
+    "products": [
+      {
+        "name": "Foundation",
+        "price": "25",
+        "brand": " L'Oréal",
+        "description": "L'Oréal Foundation, the philanthropic branch of L'Oréal Group, champions social and environmental causes since its establishment in 2007. Focused on scientific research, education, and community empowerment, it particularly emphasizes gender equality through initiatives like the For Women in Science program. Committed to sustainability, the foundation collaborates with diverse partners to leverage L'Oréal's influence in promoting positive change globally. Through strategic initiatives and ethical practices, L'Oréal Foundation reinforces the brand's dedication to beauty, innovation, and responsible corporate citizenship.",
+        "rating": "4",
+        "category": "Makeup",
+        "image": "https://i.ibb.co/4S5v2xj/loreal-foundation.jpg"
+      },
+      
+      {
+        "name": "Eyeshadow Palette",
+        "price": "30",
+        "brand": " L'Oréal",
+        "description": "L'Oréal's eyeshadow palettes offer a vibrant and versatile range of colors, curated to inspire creativity in makeup enthusiasts. Known for quality and innovation, L'Oréal combines rich pigments and smooth textures in their palettes, ensuring easy application and long-lasting wear. From everyday neutrals to bold and trendy shades, each palette is designed to enhance and define the eyes, allowing for endless eye-catching looks. L'Oréal's commitment to beauty and sophistication is evident in these palettes, making them a go-to choice for those seeking both elegance and on-trend eye makeup options.",
+        "rating": "3",
+        "category": "Makeup",
+        "image": "https://i.ibb.co/nb9cCrX/loreal-eyeshadow.jpg"
+      }
+      
+    ]
+  },
+
+  {
+    "id": 2,
+    "brandName": "Estée Lauder",
+    "brandImage": "https://i.ibb.co/W0hPxxN/estee-lauder-brand-img.jpg"
+  },
+  {
+    "id": 3,
+    "brandName": "Chanel",
+    "brandImage": "https://i.ibb.co/HDSLfJC/chanel-brand-img.jpg"
+  },
+  {
+    "id": 4,
+    "brandName": "Dior",
+    "brandImage": "https://i.ibb.co/TK68nsb/dior-brand-img.jpg"
+  },
+  {
+    "id": 5,
+    "brandName": "Revlon",
+    "brandImage": "https://i.ibb.co/LYV5fJt/revlon-brand-img.jpg"
+  },
+  {
+    "id": 6,
+    "brandName": "Avon",
+    "brandImage": "https://i.ibb.co/0QhBtK0/avon-brand-img.jpg"
+  }
+]
